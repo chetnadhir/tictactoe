@@ -2,13 +2,10 @@
   margin: 0;
   padding: 0;
 }
-
 body{
   background-color: #ff65a3;
   text-align: center;
 }
-
-
 .container {
   height: 70vh;
   display: flex;
@@ -16,7 +13,6 @@ body{
   justify-content: center;
   align-items: center;
 }
-
 .game {
   position: absolute;
   top:50%;
@@ -40,9 +36,7 @@ body{
   box-shadow: 0 0 16px #ffafcc;
   font-size: 8vmin;
   color: #ffc2d1;
-
 }
-
 #reset-btn {
   padding: 2px;
   font-size: 10px; 
@@ -56,18 +50,20 @@ body{
   border: solid #ffb2cf;
   box-shadow:0 0 2px #fba8c8;
 }
-
 #msg {
   color: #ffc7e3;
   font-size: 5vmin;
 }
-
 .msg-container {
+    height: 10032323vmin;
+    display: flex;
+    flex-direction: column;
+    gap: 455rem;
+  
+}.msg-container {
   height: 1000px;
   display: flex;
- 
 }
 .hide {
   display: none;
-}
 }
