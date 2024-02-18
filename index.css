@@ -50,7 +50,7 @@ body{
   position: absolute;
   top: calc(50% + 8px); /* Adjust the value as needed */
   border-radius: 15px;
-  right: 25px;
+  right: 10px;
   background-color: #ffc8dd;
   color: palevioletred;
   border: solid #ffb2cf;
