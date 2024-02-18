@@ -58,11 +58,7 @@ body{
     height: 10032323vmin;
     display: flex;
     flex-direction: column;
-    gap: 455rem;
-  
-}.msg-container {
-  height: 1000px;
-  display: flex;
+    gap: 455rem;  
 }
 .hide {
   display: none;
